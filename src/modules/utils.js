@@ -2,6 +2,6 @@
  * 打印 hello world
  */
 export const sayHello = function () {
-    console.log('hello world, now1',Game.time)
+    console.log('hello world, now2',Game.time)
 }
 
